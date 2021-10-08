@@ -1,6 +1,46 @@
-#rectangle {
-    width: 200px;
-    height: 100px;
-    background: red;
-  }
-  
+#div1{
+  height: 25px;  /* la hauteur tjrs en pixel */
+  width: 75%; /* la largeur tjrs en pourcentage */
+  background-color: green;
+}
+#div2{
+  height: 25px;
+  width: 25%;
+  background-color: blue;
+}
+#div3{
+  height: 100px;
+  width: 40%;
+  background-color: red;
+}
+#div4{
+  height: 50px;
+  width: 30%;
+  background-color: orange;
+}
+#div5{
+  height: 50px;
+  width: 20%;
+  background-color: violet;
+}
+#div6{
+  height: 50px;
+  width: 20%;
+  background-color: orange;
+}
+#div7{
+  height: 25px;
+  width: 20%;
+  background-color: lightgreen;
+}
+#div8{
+  height: 25px;
+  width: 20%;
+  background-color: tomato;
+}
+#div9{
+  height: 100;
+  width: 100%;
+  background-color: rgb(43, 61, 226);
+}
+div{float: left;}
